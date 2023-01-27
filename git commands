@@ -1,0 +1,27 @@
+today i learned some git commands 
+those commans mentioned in below:
+1.touch-- this commaand is used to create files 
+syntax-- touch _username
+git add_username -- this command is used to add the file working are to index area OR staging area
+git commit_m"username"--- this commmand is used to commit the file from working area to staging area
+git stash-- this command is used to to store working code in temparary storage 
+git stash pop OR git stash apply --- this command is used to retrive the code asuseally
+vi .gitignore--this command is used to edit .gitignore file you want ignore some files enter file names and save the file and cheak with ls command
+git clone -- this command is used to to copy entair file from hit hub to git command 
+syntax---git clone_copied file name 
+what is the use of actions options in git hub:
+github Actions is a contineous integration and contineous delivery (ci/cd) platform that allows to ypu automate your build,test,and deployment pipelineYou can create workflows that builds abd test every pill request to your repository, or deploy merged pull requests to production
+git pull --- 
+git push ----
+git rebase
+git rebase-i
+git remote
+git revert
+git branch
+git cheakout
+git clean
+git commit -amend
+git config
+git fetch
+git init
+git merge
